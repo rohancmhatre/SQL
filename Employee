@@ -8,3 +8,5 @@ SALARY NUMBER,
 VARIABLEPAY NUMBER,
 EMPLOYEEROLE 
 );
+
+--Inserting data into Table
